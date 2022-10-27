@@ -32,6 +32,7 @@ hello
 // contact me 8002463989
  master
 
+rishav4101-patch-4
 ``` 
 import java.util.Scanner;  
 public class ATMExample  
@@ -92,3 +93,7 @@ public class ATMExample
     }  
 }  
 ```
+#### In Java, we can create an ATM program for representing ATM transection. In the ATM program, the user has to select an option from the options displayed on the screen. The options are related to withdraw the money, deposit the money, check the balance, and exit.
+
+#### To withdraw the money, we simply get the withdrawal amount from the user and remove that amount from the total balance and print the successful message. To deposit the money, we simply get the deposit amount from the user, add it to the total balance and print the successful message.
+
